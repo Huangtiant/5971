@@ -20,7 +20,7 @@
 \noindent
 \makebox[\paperwidth][c]{%
 \begin{minipage}{0.98\paperwidth}
-\begin{columns}[t,totalwidth=\paperwidth]
+\begin{columns}[t,totalwidth=0.98\paperwidth]
 
 % ---------- Left column ----------
 \begin{column}{0.305\paperwidth}
