@@ -38,6 +38,8 @@
     • Categorical: mode imputation + one-hot encoding
     \end{block}
 
+    \vspace*{-8pt}
+
     \begin{block}{2. Data Processing}
     \centering
 
