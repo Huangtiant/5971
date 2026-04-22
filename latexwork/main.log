@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.28)  22 APR 2026 16:39
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.28)  22 APR 2026 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -819,33 +819,28 @@ Dictionary: translator-theorem-dictionary, Language: English
 \openout4 = `main.vrb'.
 
  (./main.vrb
-LaTeX Font Info:    Calculating math sizes for size <12.44> on input line 12.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12.44> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 12.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8.70796> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 12.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6.22> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 12.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 5--13
-[][][][][][]  
- []
-
 File: heatmap.jpg Graphic file (type bmp)
 <heatmap.jpg>
+LaTeX Font Info:    Calculating math sizes for size <12.44> on input line 255.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12.44> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8.70796> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6.22> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
 File: VIF.png Graphic file (type bmp)
 <VIF.png>
 File: feature.png Graphic file (type bmp)
 <feature.png>
 File: logis.jpg Graphic file (type bmp)
 <logis.jpg>
-LaTeX Font Info:    Calculating math sizes for size <4.8> on input line 254.
+LaTeX Font Info:    Calculating math sizes for size <4.8> on input line 255.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <4.8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 254.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <3.35999> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 254.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <2.4> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 254.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
 File: LRF.png Graphic file (type bmp)
 <LRF.png>
 File: LR4.png Graphic file (type bmp)
@@ -865,7 +860,7 @@ File: XG4.png Graphic file (type bmp)
 File: Conc.png Graphic file (type bmp)
 <Conc.png>
 )
-Overfull \vbox (59.69258pt too high) detected at line 284
+Overfull \vbox (28.08743pt too high) detected at line 285
  []
 
 [1
@@ -890,11 +885,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25830 strings out of 474773
- 507410 string characters out of 5757284
+ 507411 string characters out of 5757284
  1958842 words of memory out of 5000000
  47412 multiletter control sequences out of 15000+600000
  567917 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,12n,123p,413b,1034s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,12n,123p,413b,1030s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (1 page).

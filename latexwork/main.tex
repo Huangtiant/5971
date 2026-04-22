@@ -28,23 +28,10 @@
 
 \begin{frame}[t,fragile]
 
-% =========================
-% Top title bar (flush to top)
-% =========================
-\noindent
-\colorbox{washured}{%
-    \parbox[c][0.23in][c]{\paperwidth}{%
-        \hspace*{0.10cm}%
-        {\color{white}\fontsize{10}{11}\selectfont\bfseries
-        Customer Churn Prediction \& Retention Analysis}%
-    }%
-}
-
-\vspace{0.01in}
+\vspace{0.03in}
 
 % =========================
 % Three-column layout
-% Wider columns, safe spacing, fully visible right column
 % =========================
 \noindent
 \makebox[\paperwidth][c]{%
@@ -93,8 +80,7 @@
     \begin{minipage}{\linewidth}
     \raggedright
     \fontsize{4.8}{5.4}\selectfont
-    Low--moderate correlations indicate weak direct relationships.
-    VIF reveals multicollinearity from one-hot encoding and overlapping features.
+    Low correlations belie VIF-elevated one‑hot collinearity.
     \end{minipage}
 
     \par\vspace{0.04cm}
@@ -275,6 +261,21 @@
     \end{minipage}
 
     \end{block}
+
+    \vspace*{4pt}
+
+    % ---- Project info area ----
+    {%
+    \setlength{\fboxsep}{4pt}%
+    \noindent\colorbox{lightgray}{%
+        \begin{minipage}{\dimexpr\linewidth-8pt\relax}%
+        \fontsize{3.8}{4.6}\selectfont\color{black}%
+        \textbf{\color{washured}Project:}~Customer Churn Prediction \& Retention Analysis\\[2pt]%
+        \textbf{\color{washured}Group:}~[Group Name]\\[2pt]%
+        \textbf{\color{washured}Members:}~[Member 1] \quad [Member 2] \quad [Member 3]%
+        \end{minipage}%
+    }\par%
+    }
 
 \end{column}
 
